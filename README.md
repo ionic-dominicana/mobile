@@ -1,2 +1,2 @@
-# mobile
+# mobile app
 Ionic Dominicana mobile client
